@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Atre
 - 👀 I’m interested in programming and development
-- 🌱 I’m currently learning C,C++ and Arduino
+- 🌱 Expanding in Web Development
   
 <!---
 adityaatre26/adityaatre26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
