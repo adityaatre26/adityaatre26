@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Aditya Atre
-- 👀 I’m interested in programming and development
-- 🌱 Expanding in Web Development
+<h1 align="center">I'm Aditya Atre👋</h1>
 
 
 ## Languages and Tools:
