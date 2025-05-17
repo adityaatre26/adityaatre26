@@ -37,9 +37,6 @@ About Me
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-  </a>
   <a href="https://ui.shadcn.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn" width="40" height="40"/>
   </a>
@@ -60,9 +57,6 @@ About Me
   <!-- Deployment -->
   <a href="https://vercel.com/" target="_blank">
     <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="vercel" width="40" height="40"/>
-  </a>
-  <a href="https://resend.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/108489185?s=200&v=4" alt="resend" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
