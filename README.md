@@ -69,22 +69,18 @@ About Me
   </a>
 </p>
 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaatre26&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<div>
+  <a href="https://github.com/adityaatre26">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaatre26&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaatre26&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaatre26&theme=tokyonight" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaatre26&layout=compact&theme=tokyonight" alt="Top Languages" />
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaatre26&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaatre26&theme=tokyo-night" alt="Activity Graph" />
-</div>
-🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaatre26&theme=tokyonight&column=7" alt="GitHub Trophies" />
 </div>
 🔗 Connect With Me
 <p align="center">
@@ -101,9 +97,3 @@ About Me
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-<!--
-**adityaatre26/adityaatre26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
