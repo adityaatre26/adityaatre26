@@ -2,12 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Always+learning+new+things" alt="Typing SVG" />
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityaatre26&style=flat-square&color=6E56CF" alt="Profile views" />
-  <a href="https://github.com/adityaatre26?tab=followers">
-    <img src="https://img.shields.io/github/followers/adityaatre26?style=social" alt="GitHub followers" />
-  </a>
-</p>
+
 About Me
 
 🔭 I'm currently working on building modern web applications
@@ -62,16 +57,6 @@ About Me
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-📊 GitHub Stats
-<div>
-  <a href="https://github.com/adityaatre26">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaatre26&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaatre26&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</div>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaatre26&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaatre26&theme=tokyo-night" alt="Activity Graph" />
