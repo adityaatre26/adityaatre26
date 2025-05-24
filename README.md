@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Aditya Atre 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=Developer;JavaScript+%7C+Next+%7C+Node.js;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 About Me
